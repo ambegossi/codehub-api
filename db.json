@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Evento 1",
+      "description": "Descrição do evento 1",
+      "datetime": "2020-10-05T08:00:00Z",
+      "email": "andersonbegossi@gmail.com",
+      "phone": "(54) 99636-4030",
+      "category": "Presencial",
+      "street": "Rua Logo Ali",
+      "street_number": "123",
+      "state": "Rio Grande do Sul",
+      "city": "Caxias do Sul",
+      "zip_code": "95010-003",
+      "image": "https://static01.nyt.com/images/2016/06/14/business/14applelive2/14applelive2-jumbo.jpg?quality=90&auto=webp"
+    },
+    {
+      "id": 2,
+      "title": "Evento 2",
+      "description": "Descrição do evento 2",
+      "datetime": "2020-08-10T08:00:00Z",
+      "email": "andersonbegossi@gmail.com",
+      "phone": "(54) 99636-4030",
+      "category": "Online",
+      "link": "https://github.com/ambegossi",
+      "image": "https://frantic.im/assets/react-conf-2018/og-image.jpg"
+    }
+  ]
+}
