@@ -2,29 +2,55 @@
   "events": [
     {
       "id": 1,
-      "title": "Evento 1",
-      "description": "Descrição do evento 1",
+      "title": "Apple Developers Conference",
+      "description": "Conferência Mundial de Desenvolvedores anual da Apple, onde os desenvolvedores podem participar de sessões e se encontrar com engenheiros da Apple",
       "datetime": "2020-10-05T08:00:00Z",
-      "email": "andersonbegossi@gmail.com",
-      "phone": "(54) 99636-4030",
+      "email": "contact@apple.com",
+      "phone": "(54) 99000-0030",
       "category": "Presencial",
       "street": "Rua Logo Ali",
       "street_number": "123",
-      "state": "Rio Grande do Sul",
-      "city": "Caxias do Sul",
-      "zip_code": "95010-003",
+      "state": "Califórnia",
+      "city": "Santa Clara",
+      "zip_code": "00000-000",
       "image": "https://static01.nyt.com/images/2016/06/14/business/14applelive2/14applelive2-jumbo.jpg?quality=90&auto=webp"
     },
     {
       "id": 2,
-      "title": "Evento 2",
-      "description": "Descrição do evento 2",
-      "datetime": "2020-08-10T08:00:00Z",
-      "email": "andersonbegossi@gmail.com",
-      "phone": "(54) 99636-4030",
+      "title": "React Conf Brasil",
+      "description": "A maior conferência do ecossistema React da América Latina.",
+      "datetime": "2020-11-07T10:00:00Z",
+      "email": "react@react.com",
+      "phone": "(54) 90000-0000",
       "category": "Online",
-      "link": "https://github.com/ambegossi",
+      "link": "https://reactconf.com.br",
       "image": "https://frantic.im/assets/react-conf-2018/og-image.jpg"
+    },
+    {
+      "id": 3,
+      "title": "BrazilJS Conf",
+      "description": "Descrição do evento 3",
+      "datetime": "2020-012-22T10:00:00Z",
+      "email": "js@conf.com",
+      "phone": "(54) 90000-0000",
+      "category": "Online",
+      "link": "https://braziljs.org/conf/",
+      "image": "https://braziljs.org/wp-content/uploads/2019/08/carla_vieira_braziljs_conf.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TDC 2020",
+      "description": "The Developer's Conference é um evento criado e organizado pela Globalcode Tecnologia e Eventos.",
+      "datetime": "2020-08-12T15:00:00Z",
+      "email": "tdc@tdc.com",
+      "phone": "(54) 90000-4000",
+      "category": "Presencial",
+      "street": "Rua Logo Lá",
+      "street_number": "222",
+      "state": "São Paulo",
+      "city": "São Carlos",
+      "zip_code": "00000-000",
+      "image": "https://www.alfaumuarama.edu.br/downloads/galerias/2019/1576538139g.jpg"
     }
   ]
 }
